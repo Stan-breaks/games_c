@@ -10,7 +10,8 @@ int main(void) {
   printf("Welcome to Rock, Paper, Scissors!");
   while (con == 'y') {
     sleep(2);
-    printf("\n--------------------------\nEnter your choice: \n----------------------------\n 1. Rock\n 2. "
+    printf("\n--------------------------\nEnter your choice: "
+           "\n----------------------------\n 1. Rock\n 2. "
            "Paper\n 3. Scissors\n 4. Quit\n----------------------------\n");
     scanf("%d", &userChoice);
     computerChoice = rand() % 3 + 1;

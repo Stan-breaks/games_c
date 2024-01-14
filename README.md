@@ -1,4 +1,3 @@
-
 # Simple C Games
 
 Welcome to my repository of simple games written in C! This is a fun project where I explore game development in C. Currently, we have the classic game of Rock, Paper, Scissors. Stay tuned for more games!
@@ -21,4 +20,5 @@ I plan to add more games to this repository. If you have any suggestions or want
 
 ## Acknowledgments
 
-* Thanks to everyone who has shown interest in this project and provided feedback.
+-   Thanks to everyone who has shown interest in this project and provided feedback.
+
