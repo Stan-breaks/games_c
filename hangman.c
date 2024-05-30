@@ -43,4 +43,3 @@ int hangman(void) {
 }
 
 int main(void) { hangman(); }
-

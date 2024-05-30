@@ -19,6 +19,7 @@ This is a simple implementation of the classic game. The game is played in the c
 This is a simple implementation of the classic game of Hangman. The game is played in the console. The computer randomly selects a word from a predefined list and the player has to guess it one letter at a time.
 
 ### How to Play
+
 1. Compile the C file using your preferred C compiler.
 2. Run the compiled file.
 3. The game will prompt you to guess a letter of the word.
@@ -33,4 +34,3 @@ I plan to add more games to this repository. If you have any suggestions or want
 ## Acknowledgments
 
 -   Thanks to everyone who has shown interest in this project and provided feedback.
-
